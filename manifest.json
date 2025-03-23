@@ -1,0 +1,17 @@
+{
+    "short_name": "BoatApp",
+    "name": "Boat Control Dashboard",
+    "icons": [
+      {
+        "src": "boat.png",
+        "type": "image/png",
+        "sizes": "512x512",
+        "purpose": "any maskable"
+      }
+    ],
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#0066ff"
+  }
+  
